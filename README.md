@@ -1,2 +1,6 @@
-# BaseballDataViz-Python
-Building data visualizations of MLB games data with Python (pandas, matplotlib)
+# Building Baseball Data Visualizations with Python
+
+```
+Retrosheet Notice:
+The information used here was obtained free of charge from and is copyrighted by Retrosheet.  Interested parties may contact Retrosheet at "www.retrosheet.org".
+```
